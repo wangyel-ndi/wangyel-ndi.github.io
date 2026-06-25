@@ -9,7 +9,7 @@
       "id": "did:web:wangyel-ndi.github.io#key-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:wangyel-ndi.github.io",
-      "publicKeyBase58": "4CgYf7sfsBHRbpu6CTqpgPcMJE9r2cEeDRidq1iT9zjM"
+      "publicKeyBase58": "FsirFLNf5nRHKRaytvfX146GHdug8miPJAznrp7fH62x"
     }
   ],
   "authentication": [
